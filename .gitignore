@@ -1,0 +1,3 @@
+# Depending on what you're developing, you may want to ignore
+# all or part of the uploads, plugins, and themes directories.
+/content
